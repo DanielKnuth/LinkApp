@@ -13,7 +13,7 @@ from sklearn.metrics import confusion_matrix
 
 
 
-os.chdir('C:\\Users\\danie\\Documents\\Final')
+
 s = pd.read_csv("social_media_usage.csv")
 
 
